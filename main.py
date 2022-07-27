@@ -1,8 +1,5 @@
-import os
-import sys
 import string
 import random
-from tkinter import N
 import pyperclip as pc
 
         ####ENTER PASSWORD CHARACTER LEGNTH 
